@@ -4,6 +4,8 @@ Searching on a static website? Yep, it can be done easily. The only things you n
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tiborsimon/jekyll-search-system?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+<a href="http://tiborsimon.github.io" target="_blank"><h3>Demo</h3></a>
+
 [Find the corresponding article here.](http://tiborsimon.github.io/category/simple-jekyll-search-system/)
 
 # Installation
