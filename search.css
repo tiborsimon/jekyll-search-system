@@ -1,0 +1,62 @@
+// Simple search
+// --------------------------------------------------
+ 
+input#search-input {
+  width: 100%;
+  opacity: 0.4;
+  text-align: center;
+  @include rounded(6px);
+  border: none;
+  box-shadow: 0 1px 4px #555 inset;
+  color: #888;
+  padding: 4px;
+  font-size: 90%;
+  display: block;
+}
+ 
+input#search-input:focus {
+  opacity: 0.8;
+  outline: 0;
+}
+ 
+#results-container {
+  background: white;
+  margin: 7px 0 18px;
+  box-shadow: 0 1px 4px #555 inset;
+  opacity: 0.8;
+  border-radius: 6px;
+  overflow: hidden;
+}
+ 
+.selected {
+  background-color: rgba(121, 127, 134, 0.49);
+  color: #FFF !important;
+  a {
+    color: #FFF !important;
+  }
+}
+ 
+.search-result-block-container:first-child {
+  padding: 12px 20px 6px;
+}
+ 
+.search-result-block-container{
+  display: block;
+  padding: 6px 20px 6px;
+}
+ 
+.search-result-block-container:last-child {
+  padding: 6px 20px 12px;
+}
+ 
+.search-result-block-title{
+	font-weight: 700;
+  border-bottom: solid 1px #ddd;
+}
+ 
+.search-result-block-content{
+	font-size: 80%;
+  margin-left: 0px;
+  text-align: justify;
+  margin: 2px 8px 0;
+}
