@@ -4,7 +4,7 @@ Searching on a static website? Yep, it can be done easily. The only things you n
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tiborsimon/jekyll-search-system?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-[Find the corresponding article here](http://tiborsimon.github.io/category/simple-jekyll-search-system/)
+[Find the corresponding article here.](http://tiborsimon.github.io/category/simple-jekyll-search-system/)
 
 # Installation
 
@@ -18,6 +18,6 @@ Congratulations, you just have a search system on your Jekyll site.
 
 ## For more information
 
-Read the [corresponding article](http://tiborsimon.github.io/category/simple-jekyll-search-system/), and comment there, or go to the [Gitter thread](https://gitter.im/tiborsimon/jekyll-search-system) of the plugin.
+Read the [corresponding article](http://tiborsimon.github.io/category/simple-jekyll-search-system/) and comment there, or go to the [Gitter thread](https://gitter.im/tiborsimon/jekyll-search-system) of the plugin.
 
 
