@@ -2,7 +2,7 @@
 
 Searching on a static website? Yep, it can be done easily. The only things you need is a static database and a searching algorithm. This description describes the necessary steps to create a lightning fast good looking search system for your Jekyll based site. The method is also compatible with GitHubPages. [Find the corresponding article here.](http://tiborsimon.github.io/category/simple-jekyll-search-system/)
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tiborsimon/jekyll-search-system?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+<a href="http://tiborsimon.github.io/web/simple-jekyll-search-system/" target="_blank"><img src="http://tiborsimon.github.io/images/core/corresponding-article.png" /></a>   <a href="http://tiborsimon.github.io/web/simple-jekyll-search-system/#discussion" target="_blank"><img src="http://tiborsimon.github.io/images/core/join-to-the-discussion.png" /></a>   <a href="http://tiborsimon.github.io/" target="_blank"><img src="http://tiborsimon.github.io/images/core/live-demo.png" /></a>
 
 <a href="http://tiborsimon.github.io" target="_blank"><h3>Demo</h3></a>
 
