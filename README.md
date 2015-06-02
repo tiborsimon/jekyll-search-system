@@ -12,10 +12,11 @@ Searching on a static website? Yep, it can be done easily. The only things you n
 4. Copy the provided CSS rules if you want the exact same look otherwise create your own rules based on the provided ones.
 5. Copy the `search.json` file to your root folder of your site, and change it according to your needs.
 
-Congratulations, you just have a search system on your Jekyll site.
+Congratulations, you have just created a custom search system for your Jekyll site.
 
-## For more information
+## License
 
-Read the [corresponding article](http://tiborsimon.github.io/category/simple-jekyll-search-system/) and comment there, or go to the [Gitter thread](https://gitter.im/tiborsimon/jekyll-search-system) of the plugin.
+This project is under the __MIT license__. 
+See the included license file for further details.
 
 
