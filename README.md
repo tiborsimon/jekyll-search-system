@@ -4,8 +4,6 @@ Searching on a static website? Yep, it can be done easily. The only things you n
 
 <a href="http://tiborsimon.github.io/web/simple-jekyll-search-system/" target="_blank"><img src="http://tiborsimon.github.io/images/core/corresponding-article.png" /></a>   <a href="http://tiborsimon.github.io/web/simple-jekyll-search-system/#discussion" target="_blank"><img src="http://tiborsimon.github.io/images/core/join-to-the-discussion.png" /></a>   <a href="http://tiborsimon.github.io/" target="_blank"><img src="http://tiborsimon.github.io/images/core/live-demo.png" /></a>
 
-<a href="http://tiborsimon.github.io" target="_blank"><h3>Demo</h3></a>
-
 # Installation
 
 1. Copy `jekyll-search.js` or `jekyll-search.min.js` to your scripts folder.
