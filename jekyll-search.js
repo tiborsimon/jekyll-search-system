@@ -76,9 +76,9 @@ function goto_current_link() {
     window.open(current.find('a').attr('href'),'_self');
 }
 function finishSearch() {
-    $('#results-container').html('');
-    $('#search-input').val('');
-    $('#search-input').blur();
+    $('#results-container').delay(2).html('');
+    $('#search-input').delay(2).val('');
+    $('#search-input').delay(2).blur();
 }
 $(window).keydown(function (e) {
     if ($('#search-input').is(":focus")) {
@@ -96,9 +96,6 @@ $(window).keydown(function (e) {
           invalidate_selection();
       }
     }
-});
-$('#search-input').focusout(function (e) {
-    finishSearch();
 });
 
 
