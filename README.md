@@ -11,7 +11,7 @@ Searching on a static website? Yep, it can be done easily. The only things you n
 <a title="Goto discussion" href="http://tiborsimon.github.io/web/simple-jekyll-search-system/#discussion" target="_blank">
    <img src="https://img.shields.io/badge/discussion-join-orange.svg?style=flat" />
 </a>
-<a title="Demo" href="http://tiborsimon.github.io/web/simple-jekyll-search-system/#demo" target="_blank">
+<a title="Demo" href="http://tiborsimon.github.io/" target="_blank">
    <img src="http://img.shields.io/badge/demo-try-red.svg?style=flat" />
 </a>
 <a title="License" href="#license">
