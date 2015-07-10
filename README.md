@@ -2,7 +2,21 @@
 
 Searching on a static website? Yep, it can be done easily. The only things you need is a static database and a searching algorithm. This description describes the necessary steps to create a lightning fast good looking search system for your Jekyll based site. The method is also compatible with GitHubPages.
 
-<a href="http://tiborsimon.github.io/web/simple-jekyll-search-system/" target="_blank"><img src="http://tiborsimon.github.io/images/core/corresponding-article.png" /></a>   <a href="http://tiborsimon.github.io/web/simple-jekyll-search-system/#discussion" target="_blank"><img src="http://tiborsimon.github.io/images/core/join-to-the-discussion.png" /></a>   <a href="http://tiborsimon.github.io/" target="_blank"><img src="http://tiborsimon.github.io/images/core/live-demo.png" /></a>
+<a title="Latest version" href="https://github.com/tiborsimon/jekyll-search-system/releases/latest" target="_blank">
+   <img src="https://img.shields.io/badge/version-v1.3-green.svg?style=flat" />
+</a>
+<a title="Goto article" href="http://tiborsimon.github.io/web/simple-jekyll-search-system/" target="_blank">
+   <img src="https://img.shields.io/badge/article-read-blue.svg?style=flat" />
+</a>
+<a title="Goto discussion" href="http://tiborsimon.github.io/web/simple-jekyll-search-system/#discussion" target="_blank">
+   <img src="https://img.shields.io/badge/discussion-join-orange.svg?style=flat" />
+</a>
+<a title="Demo" href="http://tiborsimon.github.io/web/simple-jekyll-search-system/#demo" target="_blank">
+   <img src="http://img.shields.io/badge/demo-try-red.svg?style=flat" />
+</a>
+<a title="License" href="#license">
+   <img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" />
+</a>
 
 # Installation
 
